@@ -33,6 +33,6 @@ lavis-pretrained --> https://www.kaggle.com/datasets/bibanh/lavis-pretrained
 
 sentence-transformers-2.2.2 --> https://www.kaggle.com/datasets/inversion/sentence-transformers-222
 
-**Code Assistance :-** 
+**Assistance :-** 
 
 I used some of the functions and architecture of code from the following notebook on kaggle --> https://www.kaggle.com/code/thedevastator/blip-large-training-inference/notebook
