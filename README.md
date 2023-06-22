@@ -23,7 +23,15 @@ Link for DiffusionDB dataset --> https://huggingface.co/datasets/poloclub/diffus
 
 Trained model for **10 epochs** and saved my tuned model on PC and then again used it for inference.
 
-Unable to load trained model in repository due to excessive size.
+Link to my trained GiT-base model --> https://www.kaggle.com/datasets/spathak21/git-base-trained-epoch10
+
+**Other datasets/models used in running my notebook successfully are given below :-**
+
+Image Caption Models from HuggingFace Hub --> https://www.kaggle.com/datasets/tanreinama/image-caption-models
+
+lavis-pretrained --> https://www.kaggle.com/datasets/bibanh/lavis-pretrained
+
+sentence-transformers-2.2.2 --> https://www.kaggle.com/datasets/inversion/sentence-transformers-222
 
 **Code Assistance :-** 
 
