@@ -1,6 +1,7 @@
 # Stable-diffusion-image-to-prompts-VLG
 Made a Image to Text Generator model which is tries to caption AI generated Images.
 
+
 **MODEL :-** Used a pre-trained **GiT(GenerativeImage2Text)** from hugging face. 
 
 Huggingface link --> https://huggingface.co/microsoft/git-base.
