@@ -22,7 +22,7 @@ Link for DiffusionDB dataset --> https://huggingface.co/datasets/poloclub/diffus
 
 Trained model for **10 epochs** and saved my tuned model on PC and then again used it for inference.
 
-It's also loaded in same repository(
+Unable to load trained model in repository due to excessive size.
 
 **Code Assistance :-** 
 
