@@ -25,6 +25,8 @@ Trained model for **10 epochs** and saved my tuned model on PC and then again us
 
 Link to my trained GiT-base model --> https://www.kaggle.com/datasets/spathak21/git-base-trained-epoch10
 
+**Submission file on kaggle :-**  submission.csv
+
 **Other datasets/models used in running my notebook successfully are given below :-**
 
 Image Caption Models from HuggingFace Hub --> https://www.kaggle.com/datasets/tanreinama/image-caption-models
