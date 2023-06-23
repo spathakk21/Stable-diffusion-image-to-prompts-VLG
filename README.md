@@ -10,6 +10,10 @@ You can learn more about the GiT model by checking links given below -->
 
 GiT Paper :- **A Generative Image-to-text Transformer for Vision and Language**: https://arxiv.org/abs/2205.14100
 
+
+![GiT](https://github.com/spathakk21/Stable-diffusion-image-to-prompts-VLG/assets/136467320/ce83d0df-5df8-4bef-9d2c-4b8d5106d3f8)
+
+
 Documentation :- https://huggingface.co/docs/transformers/model_doc/git
 
 **DATA :-** 
